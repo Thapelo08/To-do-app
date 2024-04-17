@@ -13,13 +13,13 @@
 #taskInput {
     margin-bottom: 10px;
     padding: 5px;
-    border: 1px solid #341d1d;
+    border: 1px solid rgb(124, 57, 186);
     border-radius: 5px;
 }
 
 #addTask-btn {
     padding: 5px 10px;
-    background-color: #007bff;
+    background-color: #fb00ff;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -28,6 +28,6 @@
 
 #date {
     padding: 5px;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(124, 57, 186);
     border-radius: 5px;
 }
